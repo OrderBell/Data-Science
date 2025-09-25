@@ -48,7 +48,6 @@ Yapılan eğitim ve değerlendirmeler sonucunda, modelin oldukça başarılı ol
       Ipsala       0.99      1.00      1.00      3000
      Jasmine       0.97      1.00      0.98      3000
    Karacadag       1.00      0.98      0.99      3000
-
     accuracy                           0.99     15000
    macro avg       0.99      0.99      0.99     15000
 weighted avg       0.99      0.99      0.99     15000
