@@ -39,7 +39,7 @@ Yapılan eğitim ve değerlendirmeler sonucunda, modelin oldukça başarılı ol
 - Model, daha önce görmediği doğrulama verileri üzerinde **%99 genel doğruluk (`accuracy`)** oranına ulaşmıştır.
 - Sınıflandırma Raporu ve Karışıklık Matrisi, modelin tüm pirinç türlerini neredeyse hatasız bir şekilde ayırt edebildiğini göstermektedir.
 
-Classification Report
+### Classification Report
 
               precision    recall  f1-score   support
 
