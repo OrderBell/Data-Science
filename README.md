@@ -39,19 +39,9 @@ Yapılan eğitim ve değerlendirmeler sonucunda, modelin oldukça başarılı ol
 - Model, daha önce görmediği doğrulama verileri üzerinde **%99 genel doğruluk (`accuracy`)** oranına ulaşmıştır.
 - Sınıflandırma Raporu ve Karışıklık Matrisi, modelin tüm pirinç türlerini neredeyse hatasız bir şekilde ayırt edebildiğini göstermektedir.
 
-Classification Report
 
-              precision    recall  f1-score   support
+<img width="573" height="388" alt="image" src="https://github.com/user-attachments/assets/5980efa4-b27d-45b6-bed1-c265047097ca" />
 
-     Arborio       0.98      0.98      0.98      3000
-     Basmati       1.00      0.98      0.99      3000
-      Ipsala       0.99      1.00      1.00      3000
-     Jasmine       0.97      1.00      0.98      3000
-   Karacadag       1.00      0.98      0.99      3000
-   
-    accuracy                           0.99     15000
-   macro avg       0.99      0.99      0.99     15000
-weighted avg       0.99      0.99      0.99     15000
 
 
 <img width="797" height="703" alt="__results___21_1" src="https://github.com/user-attachments/assets/0d2511c4-0d68-49b5-8784-13c90e0242b7" />
