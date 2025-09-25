@@ -40,7 +40,7 @@ Yapılan eğitim ve değerlendirmeler sonucunda, modelin oldukça başarılı ol
 - Sınıflandırma Raporu ve Karışıklık Matrisi, modelin tüm pirinç türlerini neredeyse hatasız bir şekilde ayırt edebildiğini göstermektedir.
 
 
-<img width="573" height="388" alt="image" src="https://github.com/user-attachments/assets/5980efa4-b27d-45b6-bed1-c265047097ca" />
+<img width="573" height="388" alt="image" src="https://github.com/user-attachments/assets/b4583c76-286c-4936-880b-82be57791e5d" />
 
 
 
