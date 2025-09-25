@@ -49,10 +49,10 @@ Classification Report
      Jasmine       0.97      1.00      0.98      3000
    Karacadag       1.00      0.98      0.99      3000
 
-
     accuracy                           0.99     15000
    macro avg       0.99      0.99      0.99     15000
 weighted avg       0.99      0.99      0.99     15000
+
 
 <img width="797" height="703" alt="__results___21_1" src="https://github.com/user-attachments/assets/0d2511c4-0d68-49b5-8784-13c90e0242b7" />
 
