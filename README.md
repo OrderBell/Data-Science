@@ -10,7 +10,7 @@ Bu notebook'ta, 5 farklı pirinç türünü görsellerinden ayırt edebilen bir 
 ### Veri Setine Genel Bakış
 Çalışmada, her biri 15,000 adet görüntü içeren 5 farklı pirinç sınıfından oluşan dengeli bir veri seti kullanılmıştır. Görevimiz, bu 75,000 görüntülük veri setini kullanarak pirinç türlerini yüksek doğrulukla sınıflandırabilen bir model tasarlamaktır.
 
-- **Veri Seti Linki:** [Rice Image Dataset](https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset)
+- **Veri Seti Linki:** [Pirinç Veri Seti](https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset)
 
 ### Sınıflandırılacak Pirinç Türleri
 * Arborio
